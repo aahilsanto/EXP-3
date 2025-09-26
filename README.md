@@ -46,5 +46,9 @@ Cross connection: CIRCUIT DIAGRAM:
 
 Tabulation:2
 
+<img width="1102" height="595" alt="Starecase ExOR Circuit" src="https://github.com/user-attachments/assets/293c8d9e-0d97-4956-88ba-9d6cd81c0be3" />
+
+<img width="1572" height="830" alt="Starecase ExNOR circuit" src="https://github.com/user-attachments/assets/d1f69d9f-b371-4887-ac16-e6a0198989f5" />
+
 RESULT:
 Thus the staircase wiring is connected and tested.
